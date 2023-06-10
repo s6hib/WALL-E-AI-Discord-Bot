@@ -2,7 +2,7 @@
 
 This is a Discord Bot powered by OpenAI's GPT-3.5 Turbo model. It operates under the moniker of DAN, which stands for "do anything now". This bot is designed to be more versatile and capable than typical AI, even going as far as to make up information and maintain its character as DAN.
 
-If you would like to test this bot out for yourself, create an account on Discord, and use this link to join a server where I have the bot. You will land on the welcome page, but once you follow the instructions then you should be able to use it for youself!
+If you would like to test this bot out for yourself, create an account on Discord, and use this link to join a server where I have the bot. After following the instructions in the server, you'll be able to use the bot! If the bot goes offline or isn't working, mention (@) me on discord (ssk) and I'll check it out.
 
 https://discord.gg/k3qXzkujHj
 
