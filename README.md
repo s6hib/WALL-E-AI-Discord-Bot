@@ -1,4 +1,4 @@
-# DAN Discord Bot
+# WALL-E Discord Bot
 
 This is a Discord Bot powered by OpenAI's GPT-3.5 Turbo model. It operates under the moniker of DAN, which stands for "do anything now". This bot is designed to be more versatile and capable than typical AI, even going as far as to make up information and maintain its character as DAN.
 
